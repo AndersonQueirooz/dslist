@@ -1,5 +1,7 @@
 # Projeto DSList - Intensivão Java Spring
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AndersonQueirooz/dslist/blob/main/LICENSE)
+
 ## Modelo de domínio DSList
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)

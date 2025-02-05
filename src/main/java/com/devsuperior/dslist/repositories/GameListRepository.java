@@ -13,4 +13,5 @@ public interface GameListRepository extends JpaRepository <GameList, Long>{
 		value = "UPDATE tb_belonging SET position = :newPosition WHERE list_id = :listId AND game_id = :gameId")
 	void updateBelongingPosition(Long listId, Long gameId, Integer newPosition);
 	
+	
 }
